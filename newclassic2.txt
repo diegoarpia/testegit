@@ -8,4 +8,8 @@ return 0
 }
 }
 
+<<<<<<< HEAD
 branch master
+=======
+Branch funcionalidades
+>>>>>>> funcionalidade_x
