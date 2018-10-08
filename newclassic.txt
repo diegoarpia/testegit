@@ -1,3 +1,9 @@
-nova class{
+public class{
+
+if(true){
+
+system.out.println("teste de alteração");
 return 0
+
+}
 }
