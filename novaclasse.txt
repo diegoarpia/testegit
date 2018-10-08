@@ -1,7 +1,9 @@
-teste
+if(teste==true)
+{
+system.out.println("teste");
 
-teste
+return teste
+}else{
 
-teste
-
-teste
+teste=true;
+}
